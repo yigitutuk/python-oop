@@ -1,0 +1,1 @@
+# inheritance örnekleri bu alanda yer alacak
