@@ -1,1 +1,0 @@
-# Class örnekleri yer alacak.
