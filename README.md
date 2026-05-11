@@ -1,1 +1,0 @@
-# Python OOP Ders Örnekleri
